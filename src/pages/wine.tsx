@@ -10,3 +10,4 @@ const WinePage: NextPage = () => {
 
 export default WinePage;
 //export 가 머지?
+
