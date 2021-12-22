@@ -1,11 +1,11 @@
-import type { NextPage } from "next"; 
+import type { NextPage } from "next";
 
-const DessertPage: NextPage = () => {
-    return (
-        <div>
-            <h1>Wine: Dessert</h1>
-      </div>
-    )
+const DessertWinePage: NextPage = () => {
+  return (
+    <div>
+      <h1>Wine</h1>
+    </div>
+  )
 }
 
-export default DessertPage; 
+export default DessertWinePage;
