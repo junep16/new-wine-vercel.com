@@ -12,7 +12,7 @@ const PortWinePage: NextPage = () => {
 
   return (
     <div>
-      <h1>Wine</h1>
+      <h1>Port Wines</h1>
       <main>
         {data.map((wineData: Wine) => {
           return (
