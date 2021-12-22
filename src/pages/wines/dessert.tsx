@@ -1,5 +1,5 @@
-import type { NextPage } from "next";
-//import 가 머지?
+import type { NextPage } from "next"; 
+
 const DessertPage: NextPage = () => {
     return (
         <div>
@@ -8,5 +8,4 @@ const DessertPage: NextPage = () => {
     )
 }
 
-export default DessertPage;
-//export 가 머지?
+export default DessertPage; 
